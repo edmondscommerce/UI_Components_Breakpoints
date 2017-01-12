@@ -1,0 +1,41 @@
+<breakpoints>
+    <line-breakpoint enabled="true" type="php">
+        <condition expression="$type === &quot;Magento\Ui\Component\Listing&quot;" language="PHP" />
+        <url>file://$PROJECT_DIR$/lib/internal/Magento/Framework/ObjectManager/ObjectManager.php</url>
+        <line>55</line>
+        <option name="timeStamp" value="8" />
+    </line-breakpoint>
+    <line-breakpoint enabled="true" type="php">
+        <url>file://$PROJECT_DIR$/lib/internal/Magento/Framework/View/Element/UiComponent/ContextFactory.php</url>
+        <line>39</line>
+        <option name="timeStamp" value="9" />
+    </line-breakpoint>
+    <line-breakpoint enabled="true" type="php">
+        <condition expression="array_key_exists('/opt/Projects/magento2-ui_components/app/code/Magento/Ui/view/base/ui_component/etc/definition.xml', $fileList)" language="PHP" />
+        <url>file://$PROJECT_DIR$/lib/internal/Magento/Framework/View/Element/UiComponent/Config/Reader.php</url>
+        <line>59</line>
+        <option name="timeStamp" value="11" />
+    </line-breakpoint>
+    <line-breakpoint enabled="true" type="php">
+        <condition expression="static::NAME === &quot;listing&quot;" language="PHP" />
+        <url>file://$PROJECT_DIR$/app/code/Magento/Ui/Component/AbstractComponent.php</url>
+        <line>60</line>
+        <option name="timeStamp" value="14" />
+    </line-breakpoint>
+    <line-breakpoint enabled="true" type="php">
+        <url>file://$PROJECT_DIR$/app/code/Magento/Ui/TemplateEngine/Xhtml/Result.php</url>
+        <line>82</line>
+        <option name="timeStamp" value="16" />
+    </line-breakpoint>
+    <line-breakpoint enabled="true" type="php">
+        <url>file://$PROJECT_DIR$/app/code/Magento/Ui/TemplateEngine/Xhtml/Result.php</url>
+        <line>121</line>
+        <option name="timeStamp" value="20" />
+    </line-breakpoint>
+    <line-breakpoint enabled="true" type="php">
+        <condition expression="array_key_exists('/opt/Projects/magento2-ui_components/app/code/Magento/Customer/view/adminhtml/ui_component/customer_listing.xml', $fileList)" language="PHP" />
+        <url>file://$PROJECT_DIR$/lib/internal/Magento/Framework/View/Element/UiComponent/Config/Reader.php</url>
+        <line>58</line>
+        <option name="timeStamp" value="24" />
+    </line-breakpoint>
+</breakpoints>
