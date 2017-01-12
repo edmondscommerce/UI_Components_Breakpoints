@@ -25,4 +25,10 @@ A set of PHPStorm breakpoints set up for investigation Magento 2 UI Components
 
 ### Video
 
-Coming soon!
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oN67ZdLat7Q" target="_blank">
+	<img src="http://img.youtube.com/vi/oN67ZdLat7Q/0.jpg" alt="Magento 2 UI Component Breakpoints" width="240" height="180" border="10" />
+</a>
+
+### Blog Post
+
+There's also a blogpost [here](https://edmondscommerce.github.io/introducing-ui-components/) that goes through this process in much more detail.
