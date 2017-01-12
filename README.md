@@ -1,4 +1,4 @@
-# UI_Components_Breakpoints
+# MAgento 2 UI Components Breakpoints
 
 ## By [Edmonds Commerce](https://www.edmondscommerce.co.uk)
 
